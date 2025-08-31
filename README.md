@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngieNathan
-- 👀 I’m interested in PowerShell, SQL, Azure, and Windows
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in PowerShell, VB, VBA, C#, DAX, C++. JavaScript, and Python; but never HTML
+- 🌱 I’m currently upkeeping my code base on screeps.com and building a video game named The Book-Keeper within Unity.
+- 💞️ I’m looking to collaborate on The Book-Keeper, looking for dedicated artist for modeling and animation.
 - 📫 How to reach me nathan.keiler@outlook.com
 
 <!---
